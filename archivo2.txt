@@ -1,0 +1,2 @@
+string nombre = "Hola soy daniel"
+print (nombre)
